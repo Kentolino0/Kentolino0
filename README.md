@@ -9,7 +9,7 @@ Ich bin Schüler in der Kursstufe und derzeit auf dem Weg zum Abitur. Mein Ziel 
 - 💼 Lernziel: Data Science & Machine Learning
 - 🔍 Ich lerne täglich Neues im Bereich Python, Datenvisualisierung und Analyse
 
-  **Sprachen & Bibliotheken**  
+**Sprachen & Bibliotheken**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
